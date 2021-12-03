@@ -19,15 +19,15 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
 
-*ഹായ് {}, എന്റെ പേര് {}!*
+*Hai {}, My name is {}!*
 
-*ഞാൻ* [ഇദ്ദേഹം](tg://user?id={}) *നോക്കി നടത്തുന്ന ഒരു അടിപൊളി അഡ്മിൻ ബോട്ടാണ്.*
+*I am developed by this* [Person](tg://user?id={}) *I am an powerfull bot made by him.*
 
-*എന്നെ നിർമ്മിച്ചിരിക്കുന്നത് python3 യിൽ python-telegram-bot ലൈബ്രറി ഉപയോഗിച്ചാണ്. ഞാൻ പൂർണ്ണമായിട്ടും ഓപ്പൺസോഴ്സ്ഡ് ആണ്.
+*I am developed by python3  python-telegram-bot library. I am fully Open source like rose bot.
 
-*എന്റെ അപ്ഡേറ്റുകളെക്കുറിച്ചും പ്രവർത്തനത്തെപറ്റിയും അറിയുവാൻ അപ്ഡേറ്റ് ചാനൽ സബ്സ്ക്രൈബ് ചെയ്യുക.*
+*Join my update channel
 
-*ലഭ്യമായ കമാന്റുകളെപ്പറ്റി അറിയുവാൻ /help അമർത്തുക.*
+*Click on /help to see my command's 
 
 """
 
@@ -48,9 +48,9 @@ And the following:
 
 DONATE_STRING = """ *🙋‍♂️Hello Bro or Sis*!
 
-*😎Contect @montage_33*
+*😎Contact @montage_33*
 
-*👉Clcik 👉 /donate*
+*👉Click 👉 /donate*
 """
 
 IMPORTED = {}
@@ -244,7 +244,7 @@ def get_help(bot: Bot, update: Update):
 
         update.effective_message.reply_text("Contact me in PM to get the list of possible commands.",
                                             reply_markup=InlineKeyboardMarkup(
-                                                [[InlineKeyboardButton(text="💫 Help 💫",
+                                                [[InlineKeyboardButton(text="👑 Help 👑",
                                                                        url="t.me/{}?start=help".format(
                                                                            bot.username))]]))
         return
