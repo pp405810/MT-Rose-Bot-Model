@@ -1,6 +1,6 @@
 # MT-Rose-Bot-Model                                                           
                                                   
-[![Open Source? Yes!](https://badgen.net/badge/Oᴘᴇɴ%20Sᴏᴜʀᴄᴇ%20%3F/Yᴇs/yellow?icon=github)](https://github.com/MRK-YT/MT-FilesStoreBot)
+[![Open Source? Yes!](https://badgen.net/badge/Oᴘᴇɴ%20Sᴏᴜʀᴄᴇ%20%3F/Yᴇs/green?icon=github)](https://github.com/MRK-YT/MT-FilesStoreBot)
 [![Ask Me Anything !](https://img.shields.io/badge/🤔%20Asᴋ%20Mᴇ-Aɴʏᴛʜɪɴɢ-1abc9c.svg)](https://telegram.dog/Mrk_Yt)
 [![Report Bugs!](https://badgen.net/badge/🐞%20Rᴇᴘᴏʀᴛ%20🥲/Bᴜɢs/red)](https://telegram.dog/mrk_yt)
 [![Join Channel !](https://badgen.net/badge/🔊%20Jᴏɪɴ%20/Cʜᴀɴɴᴇʟ/Black)](https://telegram.dog/mo_Tech_yt)
@@ -10,7 +10,7 @@
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
   </a>
 <p align="center">
-  <a href="https://github.com/MRK-YT/MT-Rose-Bot-Model/stargazers">
+  <a href="https://github.com/MRK-YT/MT-Rose-Bot-Modeyukl/stargazers">
     <img src="https://img.shields.io/github/stars/MRK-YT/MT-Rose-Bot-Model?style=social">
 
   </a>
