@@ -2,7 +2,7 @@
                                                   
 [![Open Source? Yes!](https://badgen.net/badge/Oᴘᴇɴ%20Sᴏᴜʀᴄᴇ%20%3F/Yᴇs/yellow?icon=github)](https://github.com/MRK-YT/MT-FilesStoreBot)
 [![Ask Me Anything !](https://img.shields.io/badge/🤔%20Asᴋ%20Mᴇ-Aɴʏᴛʜɪɴɢ-1abc9c.svg)](https://telegram.dog/Mrk_Yt)
-[![Report Bugs!](https://badgen.net/badge/🐞%20Rᴇᴘᴏʀᴛ%20/Bᴜɢs/red)](https://telegram.dog/mrk_yt)
+[![Report Bugs!](https://badgen.net/badge/🐞%20Rᴇᴘᴏʀᴛ%20🥲/Bᴜɢs/red)](https://telegram.dog/mrk_yt)
 [![Join Channel !](https://badgen.net/badge/🔊%20Jᴏɪɴ%20/Cʜᴀɴɴᴇʟ/Black)](https://telegram.dog/mo_Tech_yt)
 
 <p align="center">
@@ -32,18 +32,23 @@ Kochu and I are moderating a [support group](https://t.me/Mo_Tech_Group), where 
 bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available. Of course
 I'll also help when a database schema changes, and some table column needs to be modified/added. Note to maintainers that all schema changes will be found in the commit messages, and its their responsibility to read any new commits.
 
-Join the [news channel](https://t.me/Mo_Tech_YT) if you just want to stay in the loop about new features or
-announcements.
+tps://t.me/Mo_Tech_YT) if you just want to stay in the loop about new featAlternatively, [find me on telegram](https://t.me/Mrk_YT)! (Keep all support questions in the support chat, where more people can help yo
 
-Alternatively, [find me on telegram](https://t.me/Mrk_YT)! (Keep all support questions in the support chat, where more people can help you.)
 
-To deploy me on heroku, use below button:
 
-### Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pp405810/MT-Rose-Bot-Model)
+# Deploy
 
-There is also a [tutorial video](https://youtu.be/wKL90i3cjPw) if you want any help on creating heroku clone.
+<details><summary>Deploy To Heroku</summary>
+<p>
+<br>
+<a href="https://heroku.com/deploy?template=https://github.com/pp405810/MT-Rose-Bot-Model">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+</p>
+</details>
+
+There is also a [tutorial vide](https://youtu.be/wKL90i3cjPw) if you want any help on creating heroku clone.
 
 ## Starting the bot.
 
